@@ -1,0 +1,4 @@
+nsepy==0.8
+nsetools==1.0.11
+plotly==5.11.0
+streamlit==1.15.0
